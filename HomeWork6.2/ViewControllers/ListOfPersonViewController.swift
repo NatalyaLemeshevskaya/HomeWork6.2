@@ -24,7 +24,6 @@ class ListOfPersonViewController: UITableViewController {
     
 
     // MARK: - Table view data source
-    
     override func numberOfSections(in tableView: UITableView) -> Int {
         return persons.count
     }

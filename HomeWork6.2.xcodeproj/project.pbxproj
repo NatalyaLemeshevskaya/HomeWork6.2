@@ -15,7 +15,6 @@
 		607E04FA2393B64B0032E382 /* ListOfPersonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607E04F92393B64B0032E382 /* ListOfPersonViewController.swift */; };
 		607E05042393B9D10032E382 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607E05032393B9D10032E382 /* Person.swift */; };
 		607E05062393BAE60032E382 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 607E05052393BAE60032E382 /* Default-568h@2x.png */; };
-		60F2F75A239434B300BE8679 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F2F759239434B300BE8679 /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		607E04F92393B64B0032E382 /* ListOfPersonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListOfPersonViewController.swift; sourceTree = "<group>"; };
 		607E05032393B9D10032E382 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		607E05052393BAE60032E382 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		60F2F759239434B300BE8679 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +66,6 @@
 				607E05002393B9250032E382 /* Supporting Files */,
 				607E04FE2393B71A0032E382 /* ViewControllers */,
 				607E04FD2393B7040032E382 /* Models */,
-				60F2F759239434B300BE8679 /* CustomTableViewCell.swift */,
 			);
 			path = HomeWork6.2;
 			sourceTree = "<group>";
@@ -189,7 +186,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				607E05042393B9D10032E382 /* Person.swift in Sources */,
-				60F2F75A239434B300BE8679 /* CustomTableViewCell.swift in Sources */,
 				607E04FA2393B64B0032E382 /* ListOfPersonViewController.swift in Sources */,
 				607E04E62393B52E0032E382 /* AppDelegate.swift in Sources */,
 				607E04E82393B52E0032E382 /* SceneDelegate.swift in Sources */,
